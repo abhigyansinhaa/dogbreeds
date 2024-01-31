@@ -1,0 +1,7 @@
+#DATASETS IMPORTED FROM KAGGLE.COM
+
+import numpy as np
+import cv2
+
+IMAGE_SIZE=(331,331)
+IMAGE_FULL_SIZE=(331,331,3)
